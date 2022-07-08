@@ -112,7 +112,7 @@ hr{
     border-radius: 20px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
   }
@@ -126,6 +126,11 @@ hr{
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
   }
+
+.contact-me{
+    width: 50%;
+    margin: 0 auto;
+}
 
 /* Bottom section */
 
